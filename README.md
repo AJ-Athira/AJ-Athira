@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://your-gif-url-here.gif" alt="Welcome!" width="80%" />
+  
+  <iframe src="https://giphy.com/embed/25Itcrcuwkyq3ohubJ" width="80%" height="80%" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-work-tired-night-shift-25Itcrcuwkyq3ohubJ">via GIPHY</a></p>
 </p>
 
 ### Hi, I'm Athira 👋
@@ -68,12 +69,11 @@ A passionate **Computer Science and Engineering** student at B V Raju Institute 
   -  **Open Source Contributor** — *GirlScript Summer of Code (GSSoC Extended 2k24)*  
   Contributed to open-source projects as a participant in GSSoC, where I collaborated on various repositories and tackled challenging issues.  
   *Badges Earned:*  
-  ![GSSoC Badge 1]() ![GSSoC Badge 2]() ![GSSoC Badge 3]()![GSSoC Badge 3]()![GSSoC Badge 3]()![GSSoC Badge 3]()
 <p align="left">
   <img src="https://gssoc.girlscript.tech/badges/postman.png?imwidth=96" width="100" />
+  <img src="https://gssoc.girlscript.tech/badges/1.png?imwidth=96"width="100" />
   <img src="https://gssoc.girlscript.tech/badges/2.png?imwidth=96"width="100" />
-  <img src="https://gssoc.girlscript.tech/badges/1.png?imwidth=96"width="100" />
-  <img src="https://gssoc.girlscript.tech/badges/1.png?imwidth=96"width="100" />
+  <img src="https://gssoc.girlscript.tech/badges/3.png?imwidth=96"width="100" />
   <img src="https://gssoc.girlscript.tech/badges/4.png?imwidth=96"width="100" />
   <img src="https://gssoc.girlscript.tech/badges/5.png?imwidth=96"width="100" />
   <!-- Add more badges as needed -->
