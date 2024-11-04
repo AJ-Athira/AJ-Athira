@@ -65,8 +65,10 @@ A passionate **Computer Science and Engineering** student at B V Raju Institute 
 
 
 ### 🏆 Achievements & Tech Experience
-- **GSSoC (GirlScript Summer of Code) 2023** Contributor  
-  - Participated in open-source projects, contributed to repositories, and earned badges in recognition of successful contributions.
+  -  **Open Source Contributor** — *GirlScript Summer of Code (GSSoC Extended 2k24)*  
+  Contributed to open-source projects as a participant in GSSoC, where I collaborated on various repositories and tackled challenging issues.  
+  *Badges Earned:*  
+  ![GSSoC Badge 1](https://gssoc.girlscript.tech/badges/postman.png?imwidth=96) ![GSSoC Badge 2](https://gssoc.girlscript.tech/badges/1.png?imwidth=96) ![GSSoC Badge 3](https://gssoc.girlscript.tech/badges/2.png?imwidth=96)![GSSoC Badge 3](https://gssoc.girlscript.tech/badges/3.png?imwidth=96)![GSSoC Badge 3](https://gssoc.girlscript.tech/badges/4.png?imwidth=96)![GSSoC Badge 3](https://gssoc.girlscript.tech/badges/5.png?imwidth=96)
 - Advanced to **Smart India Hackathon 2023 & 2024** intercollege round
 - Member of the **Data Science Hub at BVRIT**
 - Competed in various hackathons including *Unstop* and *Tech Surge 2024*
