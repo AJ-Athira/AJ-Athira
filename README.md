@@ -13,9 +13,11 @@ A passionate **Computer Science and Engineering** student at B V Raju Institute 
 
 ---
 
+
 ### 🛠️ Technical Skills
+
+#### 💻 Programming Languages
 <p align="left">
-  <!-- Programming Languages -->
   <a href="https://www.java.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   </a>
@@ -31,46 +33,36 @@ A passionate **Computer Science and Engineering** student at B V Raju Institute 
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
   </a>
-  
-  <!-- Database Management -->
-  <a href="https://www.oracle.com/sql/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=oracle&logoColor=white" alt="SQL" />
+</p>
+
+#### 🗄️ Database Management
+<p align="left">
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
   </a>
-  
-  <!-- Tools -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+#### 🛠️ Tools
+<p align="left">
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
   </a>
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="Pycharm" />
+  </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   </a>
   <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse" />
-  </a>
-  
-  <!-- Cloud Skills -->
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
   </a>
 </p>
 
 ---
 
-### 💼 Experience
-- **Advanced Software Engineering Job Simulation** | *Walmart USA*  
-  - Designed efficient data structures like a custom heap in Java
-  - Created effective data models using UML and ER diagrams  
-  *Oct 2024*
-
-- **Web Development and Design Intern** | *Oasis Infobyte*  
-  - Built responsive websites using HTML, CSS, and JavaScript
-  - Worked collaboratively within a team and directly with clients to deliver project success  
-  *Nov 2023 - Dec 2023*
-
----
 
 ### 🏆 Achievements & Tech Experience
 - **GSSoC (GirlScript Summer of Code) 2023** Contributor  
@@ -83,21 +75,16 @@ A passionate **Computer Science and Engineering** student at B V Raju Institute 
 
 ### 📚 Projects
 #### [Popular Repositories]
-- [**Diabetic Foot Ulcer Detection**](https://github.com/your-github/dfu-detection)  
+- [**Diabetic Foot Ulcer Detection**](https://github.com/AJ-Athira/Prediction-of-Diabetic-Foot-Ulcer-Detection.git)  
   Developed a classification system using TensorFlow/Keras with EfficientNetB3 and InceptionResNetV2.
 
-- [**Hotel Management Website**](https://github.com/your-github/hotel-management)  
+- [**Hotel Management Website**]([https://github.com/your-github/hotel-management](https://aj-athira.github.io/Hotel-Management-application/index.html))  
   A responsive site with booking features built using HTML, CSS, and JavaScript.
 
-- [**OCR Web App**](https://github.com/your-github/ocr-web-app)  
+- [**OCR Web App**]([https://github.com/your-github/ocr-web-app](https://github.com/AJ-Athira/ocr_web_app))  
   An OCR app using character recognition algorithms, deployed on Streamlit.
 
 ---
 
-### 📜 Publications
-- **Ensemble Model Classifier in Hybrid CNN to Predict Diabetic Foot Ulcer**  
-  *Presented at the 15th ICCCNT 2024*
-
----
 
 Feel free to reach out via GitHub issues or connect with me for collaborative projects and tech discussions. Let's create something amazing together!
