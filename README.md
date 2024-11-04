@@ -68,7 +68,16 @@ A passionate **Computer Science and Engineering** student at B V Raju Institute 
   -  **Open Source Contributor** — *GirlScript Summer of Code (GSSoC Extended 2k24)*  
   Contributed to open-source projects as a participant in GSSoC, where I collaborated on various repositories and tackled challenging issues.  
   *Badges Earned:*  
-  ![GSSoC Badge 1](https://gssoc.girlscript.tech/badges/postman.png?imwidth=96) ![GSSoC Badge 2](https://gssoc.girlscript.tech/badges/1.png?imwidth=96) ![GSSoC Badge 3](https://gssoc.girlscript.tech/badges/2.png?imwidth=96)![GSSoC Badge 3](https://gssoc.girlscript.tech/badges/3.png?imwidth=96)![GSSoC Badge 3](https://gssoc.girlscript.tech/badges/4.png?imwidth=96)![GSSoC Badge 3](https://gssoc.girlscript.tech/badges/5.png?imwidth=96)
+  ![GSSoC Badge 1]() ![GSSoC Badge 2]() ![GSSoC Badge 3]()![GSSoC Badge 3]()![GSSoC Badge 3]()![GSSoC Badge 3]()
+<p align="left">
+  <img src="https://gssoc.girlscript.tech/badges/postman.png?imwidth=96" width="100" />
+  <img src="https://gssoc.girlscript.tech/badges/2.png?imwidth=96"width="100" />
+  <img src="https://gssoc.girlscript.tech/badges/1.png?imwidth=96"width="100" />
+  <img src="https://gssoc.girlscript.tech/badges/1.png?imwidth=96"width="100" />
+  <img src="https://gssoc.girlscript.tech/badges/4.png?imwidth=96"width="100" />
+  <img src="https://gssoc.girlscript.tech/badges/5.png?imwidth=96"width="100" />
+  <!-- Add more badges as needed -->
+</p>
 - Advanced to **Smart India Hackathon 2023 & 2024** intercollege round
 - Member of the **Data Science Hub at BVRIT**
 - Competed in various hackathons including *Unstop* and *Tech Surge 2024*
