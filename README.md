@@ -1,7 +1,7 @@
-<p align="center">
-  
-  <iframe src="https://giphy.com/embed/25Itcrcuwkyq3ohubJ" width="80%" height="80%" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-work-tired-night-shift-25Itcrcuwkyq3ohubJ">via GIPHY</a></p>
+<p align="right">
+  <img src="git.gif" alt="Your GIF" width="200" />
 </p>
+
 
 ### Hi, I'm Athira 👋
 A passionate **Computer Science and Engineering** student at B V Raju Institute of Technology. I love working on exciting projects, exploring new tech, and challenging myself to learn and grow!
@@ -89,10 +89,10 @@ A passionate **Computer Science and Engineering** student at B V Raju Institute 
 - [**Diabetic Foot Ulcer Detection**](https://github.com/AJ-Athira/Prediction-of-Diabetic-Foot-Ulcer-Detection.git)  
   Developed a classification system using TensorFlow/Keras with EfficientNetB3 and InceptionResNetV2.
 
-- [**Hotel Management Website**]([https://github.com/your-github/hotel-management](https://aj-athira.github.io/Hotel-Management-application/index.html))  
+- [**Hotel Management Website**](https://github.com/your-github/hotel-management](https://aj-athira.github.io/Hotel-Management-application/index.html))  
   A responsive site with booking features built using HTML, CSS, and JavaScript.
 
-- [**OCR Web App**]([https://github.com/your-github/ocr-web-app](https://github.com/AJ-Athira/ocr_web_app))  
+- [**OCR Web App**](https://github.com/your-github/ocr-web-app](https://github.com/AJ-Athira/ocr_web_app))  
   An OCR app using character recognition algorithms, deployed on Streamlit.
 
 ---
