@@ -4,7 +4,7 @@
   <!-- Introductory Text Section -->
   <div style="flex: 1; text-align: center;">
     <div style="width: 100%; display: flex; justify-content: center;">
-    <img src="your-gif.gif" alt="Your GIF" width="300" style="max-width: 100%; height: auto;" />
+    <img src="work1-ezgif.com-crop.gif" alt="Your GIF" width="300" style="max-width: 100%; height: auto;" />
   </div>
     <p>A passionate <strong>Computer Science and Engineering</strong> student at B V Raju Institute of Technology. I love working on exciting projects, exploring new tech, and challenging myself to learn and grow!</p>
   </div>
