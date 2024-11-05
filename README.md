@@ -1,15 +1,19 @@
 <!-- Main Container -->
-<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px;">
+<!-- Main Container -->
+<div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
+
+  <!-- GIF Section -->
+  <div>
+    <img src="work1-ezgif.com-crop.gif" alt="Your GIF" width="300" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
+  </div>
 
   <!-- Introductory Text Section -->
-  <div style="flex: 1; text-align: center;">
-    <div style="width: 100%; display: flex; justify-content: center;">
-    <img src="work1-ezgif.com-crop.gif" alt="Your GIF" width="300" style="max-width: 100%; height: auto;" />
-  </div>
+  <div style="text-align: center; max-width: 600px;">
     <p>A passionate <strong>Computer Science and Engineering</strong> student at B V Raju Institute of Technology. I love working on exciting projects, exploring new tech, and challenging myself to learn and grow!</p>
   </div>
-  
+
 </div>
+
 
 
   <!-- GIF Section -->
