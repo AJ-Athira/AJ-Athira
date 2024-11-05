@@ -3,9 +3,9 @@
     <h1>Hi, I'm Athira 👋</h1>
     <p>A passionate <strong>Computer Science and Engineering</strong> student at B V Raju Institute of Technology. I love working on exciting projects, exploring new tech, and challenging myself to learn and grow!</p>
   </div>
-  <div>
-    <img src="git.gif" alt="Your GIF" width="200" />
-  </div>
+ <div style="text-align: center; margin-top: 20px;">
+  <img src="git.gif" alt="Your GIF" width="200" />
+</div>
 </div>
 
 ---
