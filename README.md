@@ -3,8 +3,8 @@
 <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
 
   <!-- GIF Section -->
-  <div>
-    <img src="work1-ezgif.com-crop.gif" alt="Your GIF" width="300" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
+ <div style="text-align: center;">
+    <img src="work1-ezgif.com-crop.gif" alt="Your GIF" width="300" style="max-width: 100%; height: auto; display: block;" />
   </div>
 
   <!-- Introductory Text Section -->
