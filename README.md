@@ -1,10 +1,10 @@
-<p align="right">
-  <img src="git.gif" alt="Your GIF" width="200" />
-</p>
-
-
-### Hi, I'm Athira 👋
-A passionate **Computer Science and Engineering** student at B V Raju Institute of Technology. I love working on exciting projects, exploring new tech, and challenging myself to learn and grow!
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div>
+    ### Hi, I'm Athira 👋  
+    A passionate **Computer Science and Engineering** student at B V Raju Institute of Technology. I love working on exciting projects, exploring new tech, and challenging myself to learn and grow!
+  </div>
+  <img src="git.gif" alt="Your GIF" width="200" style="float: right;"/>
+</div>
 
 ---
 
