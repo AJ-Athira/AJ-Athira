@@ -1,14 +1,14 @@
+<!-- Main Container -->
 <div style="display: flex; align-items: center; justify-content: space-between; gap: 20px;">
 
   <!-- Introductory Text Section -->
   <div style="flex: 1; text-align: center;">
-    <video width="150" autoplay loop muted style="display: block; margin: 0 auto;">
-      <source src="work! (1).mp4" type="video/mp4">
-    </video>
+    <img src="work1-ezgif.com-crop.gif" alt="Your GIF" width="150" style="display: block; margin: 0 auto;" />
     <p>A passionate <strong>Computer Science and Engineering</strong> student at B V Raju Institute of Technology. I love working on exciting projects, exploring new tech, and challenging myself to learn and grow!</p>
   </div>
   
 </div>
+
 
   <!-- GIF Section -->
  
