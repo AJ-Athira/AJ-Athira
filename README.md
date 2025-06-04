@@ -97,20 +97,20 @@
 - Member of the **Data Science Hub at BVRIT**
 - Competed in various hackathons including *Unstop* and *Tech Surge 2024*
 
----
+
 
 ### 📚 Projects
 #### [Popular Repositories]
 - [**Diabetic Foot Ulcer Detection**](https://github.com/AJ-Athira/Prediction-of-Diabetic-Foot-Ulcer-Detection.git)  
   Developed a classification system using TensorFlow/Keras with EfficientNetB3 and InceptionResNetV2.
 
-- [**Hotel Management Website**](https://github.com/your-github/hotel-management](https://aj-athira.github.io/Hotel-Management-application/index.html))  
-  A responsive site with booking features built using HTML, CSS, and JavaScript.
+- [**Early Cure**](https://github.com/AJ-Athira/Early_Cure_WebApp.git)  
+  A responsive site which can detect certain diseases like HyperTension, Neurological disorders, Heart conditions and Scheloroderma which is built using Python,Flask, HTML, CSS, and JavaScript.
 
 - [**OCR Web App**](https://github.com/your-github/ocr-web-app](https://github.com/AJ-Athira/ocr_web_app))  
   An OCR app using character recognition algorithms, deployed on Streamlit.
 
----
+
 
 
 Feel free to reach out via GitHub issues or connect with me for collaborative projects and tech discussions. Let's create something amazing together!
