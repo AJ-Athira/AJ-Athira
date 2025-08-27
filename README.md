@@ -14,96 +14,84 @@
 
 ### 🛠️ Technical Skills
 
-I have updated the code block to include **MySQL** under Database Management and **JavaScript** under Programming Languages, as you requested. I have also added an **ML Frameworks** section with the related badges. You can copy and paste the updated code into your README file.
-
------
-
-### 🛠️ Technical Skills
-
 #### 💻 Programming Languages
-
-\<p align="left"\>
-  \<a href="[https://www.java.com/](https://www.java.com/)" target="\_blank" rel="noreferrer"\>
-    \<img src="[https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)" alt="Java" /\>
-  \</a\>
-  \<a href="[https://www.python.org/](https://www.python.org/)" target="\_blank" rel="noreferrer"\>
-    \<img src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)" alt="Python" /\>
-  \</a\>
-  \<a href="[https://www.w3schools.com/cpp/](https://www.w3schools.com/cpp/)" target="\_blank" rel="noreferrer"\>
-    \<img src="[https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)" alt="C" /\>
-  \</a\>
-  \<a href="[https://developer.mozilla.org/en-US/docs/Web/HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)" target="\_blank" rel="noreferrer"\>
-    \<img src="[https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)" alt="HTML" /\>
-  \</a\>
-  \<a href="[https://developer.mozilla.org/en-US/docs/Web/CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)" target="\_blank" rel="noreferrer"\>
-    \<img src="[https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)" alt="CSS" /\>
-  \</a\>
-  \<a href="[https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)" target="\_blank" rel="noreferrer"\>
-    \<img src="[https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black](https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack)" alt="JavaScript" /\>
-  \</a\>
-\</p\>
+<p align="left">
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  </a>
+</p>
 
 #### 🗄️ Database Management
-
-\<p align="left"\>
-  \<a href="[https://www.mysql.com/](https://www.mysql.com/)" target="\_blank" rel="noreferrer"\>
-    \<img src="[https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/MySQL-005C84%3Fstyle%3Dfor-the-badge%26logo%3Dmysql%26logoColor%3Dwhite)" alt="MySQL" /\>
-  \</a\>
-\</p\>
+<p align="left">
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  </a>
+</p>
 
 #### 🧠 ML Frameworks & Libraries
-
-\<p align="left"\>
-\<a href="[https://www.tensorflow.org/](https://www.tensorflow.org/)" target="\_blank" rel="noreferrer"\>
-\<img src="[https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)" alt="TensorFlow" /\>
-\</a\>
-\<a href="[https://pytorch.org/](https://pytorch.org/)" target="\_blank" rel="noreferrer"\>
-\<img src="[https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)" alt="PyTorch" /\>
-\</a\>
-\<a href="[https://scikit-learn.org/stable/](https://scikit-learn.org/stable/)" target="\_blank" rel="noreferrer"\>
-\<img src="[https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)" alt="Scikit-learn" /\>
-\</a\>
-\<a href="[https://numpy.org/](https://numpy.org/)" target="\_blank" rel="noreferrer"\>
-\<img src="[https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/NumPy-013243%3Fstyle%3Dfor-the-badge%26logo%3Dnumpy%26logoColor%3Dwhite)" alt="NumPy" /\>
-\</a\>
-\<a href="[https://pandas.pydata.org/](https://pandas.pydata.org/)" target="\_blank" rel="noreferrer"\>
-\<img src="[https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Pandas-150458%3Fstyle%3Dfor-the-badge%26logo%3Dpandas%26logoColor%3Dwhite)" alt="Pandas" /\>
-\</a\>
-\</p\>
+<p align="left">
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  </a>
+  <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+  </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  </a>
+</p>
 
 #### 🛠️ Tools
+<p align="left">
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
+  </a>
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="Pycharm" />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  </a>
+  <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse" />
+  </a>
+</p>
 
-\<p align="left"\>
-  \<a href="[https://github.com/](https://github.com/)" target="\_blank" rel="noreferrer"\>
-    \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)" alt="GitHub" /\>
-  \</a\>
-  \<a href="[https://jupyter.org/](https://jupyter.org/)" target="\_blank" rel="noreferrer"\>
-    \<img src="[https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)" alt="Jupyter Notebook" /\>
-  \</a\>
-  \<a href="[https://www.jetbrains.com/pycharm/](https://www.jetbrains.com/pycharm/)" target="\_blank" rel="noreferrer"\>
-    \<img src="[https://img.shields.io/badge/PyCharm-000000?style=for-the-badge\&logo=pycharm\&logoColor=white](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)" alt="Pycharm" /\>
-  \</a\>
-  \<a href="[https://code.visualstudio.com/](https://code.visualstudio.com/)" target="\_blank" rel="noreferrer"\>
-    \<img src="[https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)" alt="VS Code" /\>
-  \</a\>
-  \<a href="[https://www.eclipse.org/](https://www.eclipse.org/)" target="\_blank" rel="noreferrer"\>
-    \<img src="[https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge\&logo=eclipse\&logoColor=white](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)" alt="Eclipse" /\>
-  \</a\>
-\</p\>
 ---
 
 ### 💼 Experience
-
 - **ML Intern** — *Stud Entertainments– Vishnu Venture Labs Foundation (VVLF)*
   - *June 2025*
   - Worked on a Flask application using Pyannote.audio and WhisperX for speaker diarization and text alignment.
   - Automated speaker-based clip merging, which boosted editing speed and accuracy for CinemaTech.
-
 - **Web Development Intern** — *MKDigitalMare PVT LTD*
   - *January 2025–April 2025*
   - Built a Handcraft E-commerce website with a responsive UI using HTML, CSS, and JavaScript.
   - Integrated Firebase for real-time database management and user authentication.
-
 - **Open Source Contributor** — *GirlScript Summer of Code (GSSoC) Extended*
   - *October 2024–November 2024*
   - Contributed to open-source projects by fixing bugs, adding features, and improving documentation.
@@ -122,19 +110,15 @@ I have updated the code block to include **MySQL** under Database Management and
 ---
 
 ### 📚 Projects
-
 - [**Diabetic Foot Ulcer Detection**](https://github.com/AJ-Athira/Prediction-of-Diabetic-Foot-Ulcer-Detection.git)
   - Developed a high-accuracy DFU classifier using TensorFlow/Keras with EfficientNetB3 and InceptionResNetV2.
   - Achieved **91.25% accuracy**, outperforming existing models.
-
 - [**Early Cure – AI-Based Disease Detection Using Palm Lines**](https://github.com/AJ-Athira/Early_Cure_WebApp.git)
   - A responsive site built using Python, Flask, HTML, CSS, and JavaScript.
   - Developed a CNN model using VGG16 to analyze palm lines for early disease identification.
-
-- [**Viora – E-commerce Website for Handcrafts**]((https://github.com/typodude/Viora))
+- [**Viora – E-commerce Website for Handcrafts**](https://github.com/typodude/Viora)
   - Developed during a Web Development internship.
   - Built using HTML, CSS, and JavaScript with a clean and elegant responsive UI.
-
 - [**OCR Web App**](https://github.com/AJ-Athira/ocr_web_app)
   - An OCR app using character recognition algorithms, deployed on Streamlit.
 
