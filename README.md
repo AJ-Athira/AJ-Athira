@@ -1,46 +1,28 @@
-<!-- Main Container -->
-<!-- Main Container -->
-<div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
-
-  <!-- GIF Section -->
- <div style="text-align: center;">
-    <img src="work1-ezgif.com-crop.gif" alt="Your GIF" width="300" style="max-width: 100%; height: auto; display: block;" />
-  </div>
-
-  <!-- Introductory Text Section -->
-  <div style="text-align: center; max-width: 600px;">
-    <p>A passionate <strong>Computer Science and Engineering</strong> student at B V Raju Institute of Technology. I love working on exciting projects, exploring new tech, and challenging myself to learn and grow!</p>
-  </div>
-
+<div align="center">
+  <img src="work1-ezgif.com-crop.gif" alt="A GIF of your work" width="300" style="max-width: 100%; height: auto;" />
+  <h1>Anil Jyothi Athira</h1>
+  <p>A passionate <strong>Computer Science and Engineering</strong> student at B V Raju Institute of Technology. I'm skilled in software development, web design, and hands-on machine learning, always eager to learn, adapt, and work collaboratively to create useful solutions.</p>
 </div>
-
-
-
-  <!-- GIF Section -->
- 
-
-
 
 ---
 
 ### 🎓 Education
-- **B V Raju Institute of Technology**, B.Tech in Computer Science and Engineering, CGPA: 9.2  
-  *Narsapur, Medak, Telangana* (2022-2026)
+- **B V Raju Institute of Technology**, B.Tech in Computer Science and Engineering, CGPA: 9.2
+  - *Narsapur, Medak, Telangana* (2022-2026)
 
 ---
-
 
 ### 🛠️ Technical Skills
 
 #### 💻 Programming Languages
 <p align="left">
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer"> 
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
@@ -79,38 +61,54 @@
 
 ---
 
+### 💼 Experience
+
+- **ML Intern** — *Stud Entertainments– Vishnu Venture Labs Foundation (VVLF)*
+  - *June 2025*
+  - Worked on a Flask application using Pyannote.audio and WhisperX for speaker diarization and text alignment.
+  - Automated speaker-based clip merging, which boosted editing speed and accuracy for CinemaTech.
+
+- **Web Development Intern** — *MKDigitalMare PVT LTD*
+  - *January 2025–April 2025*
+  - Built a Handcraft E-commerce website with a responsive UI using HTML, CSS, and JavaScript.
+  - Integrated Firebase for real-time database management and user authentication.
+
+- **Open Source Contributor** — *GirlScript Summer of Code (GSSoC) Extended*
+  - *October 2024–November 2024*
+  - Contributed to open-source projects by fixing bugs, adding features, and improving documentation.
+
+---
 
 ### 🏆 Achievements & Tech Experience
-  -  **Open Source Contributor** — *GirlScript Summer of Code (GSSoC Extended 2k24)*  
-  Contributed to open-source projects as a participant in GSSoC, where I collaborated on various repositories and tackled challenging issues.  
-  *Badges Earned:*  
-<p align="left">
-  <img src="https://gssoc.girlscript.tech/badges/postman.png?imwidth=96" width="100" />
-  <img src="https://gssoc.girlscript.tech/badges/1.png?imwidth=96"width="100" />
-  <img src="https://gssoc.girlscript.tech/badges/2.png?imwidth=96"width="100" />
-  <img src="https://gssoc.girlscript.tech/badges/3.png?imwidth=96"width="100" />
-  <img src="https://gssoc.girlscript.tech/badges/4.png?imwidth=96"width="100" />
-  <img src="https://gssoc.girlscript.tech/badges/5.png?imwidth=96"width="100" />
-  <!-- Add more badges as needed -->
-</p>
-- Advanced to **Smart India Hackathon 2023 & 2024** intercollege round
-- Member of the **Data Science Hub at BVRIT**
-- Competed in various hackathons including *Unstop* and *Tech Surge 2024*
+- **Amazon ML Summer School Mentee**
+  - *August 2025–Present:* Pursuing beginner-level Machine Learning training with mentorship from industry professionals.
+- **Student Coordinator at Data Science Hub, BVRIT**
+  - *March 2024–August 2025:* Organized and conducted multiple technical events, workshops, and coding sessions for peers.
+- Secured **3rd prize** in the **Vyoma 24-hour Hackathon**, BVRIT.
+- **Solved 100+ problems** across platforms like LeetCode and HackerRank, strengthening Data Structures and Algorithms skills.
+- **Advanced to Smart India Hackathon 2023 & 2024** intercollege round.
 
-
+---
 
 ### 📚 Projects
-#### [Popular Repositories]
-- [**Diabetic Foot Ulcer Detection**](https://github.com/AJ-Athira/Prediction-of-Diabetic-Foot-Ulcer-Detection.git)  
-  Developed a classification system using TensorFlow/Keras with EfficientNetB3 and InceptionResNetV2.
 
-- [**Early Cure**](https://github.com/AJ-Athira/Early_Cure_WebApp.git)  
-  A responsive site which can detect certain diseases like HyperTension, Neurological disorders, Heart conditions and Scheloroderma which is built using Python,Flask, HTML, CSS, and JavaScript.
+- [**Diabetic Foot Ulcer Detection**](https://github.com/AJ-Athira/Prediction-of-Diabetic-Foot-Ulcer-Detection.git)
+  - Developed a high-accuracy DFU classifier using TensorFlow/Keras with EfficientNetB3 and InceptionResNetV2.
+  - Achieved **91.25% accuracy**, outperforming existing models.
 
-- [**OCR Web App**](https://github.com/your-github/ocr-web-app](https://github.com/AJ-Athira/ocr_web_app))  
-  An OCR app using character recognition algorithms, deployed on Streamlit.
+- [**Early Cure – AI-Based Disease Detection Using Palm Lines**](https://github.com/AJ-Athira/Early_Cure_WebApp.git)
+  - A responsive site built using Python, Flask, HTML, CSS, and JavaScript.
+  - Developed a CNN model using VGG16 to analyze palm lines for early disease identification.
 
+- [**Viora – E-commerce Website for Handcrafts**](link)
+  - Developed during a Web Development internship.
+  - Built using HTML, CSS, and JavaScript with a clean and elegant responsive UI.
 
+- [**OCR Web App**](https://github.com/AJ-Athira/ocr_web_app)
+  - An OCR app using character recognition algorithms, deployed on Streamlit.
 
+---
 
-Feel free to reach out via GitHub issues or connect with me for collaborative projects and tech discussions. Let's create something amazing together!
+<p align="center">
+  Feel free to reach out via GitHub issues or connect with me for collaborative projects and tech discussions. Let's create something amazing together!
+</p>
